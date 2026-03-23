@@ -1,0 +1,54 @@
+order_id,order_date,ship_date,customer_id,customer_name,segment,region,state,category,sub_category,product,sales,quantity,discount,profit
+CA-2023-1001,2023-01-05,2023-01-08,C-001,Chloe Adams,Consumer,West,California,Technology,Accessories,Wireless Mouse,29.99,2,0,8.50
+CA-2023-1002,2023-01-07,2023-01-09,C-002,Liam Brown,Corporate,East,New York,Furniture,Chairs,Ergo Chair,199.00,1,0.1,35.00
+CA-2023-1003,2023-01-10,2023-01-13,C-003,Sophia Clark,Home Office,South,Texas,Office Supplies,Paper,Copy Paper 500ct,18.50,5,0,5.20
+CA-2023-1004,2023-01-12,2023-01-15,C-004,Noah Davis,Consumer,West,California,Technology,Phones,Smartphone X,699.00,1,0.15,120.00
+CA-2023-1005,2023-01-15,2023-01-18,C-005,Emma Evans,Consumer,Central,Illinois,Office Supplies,Binders,Standard Binder,12.75,3,0,3.10
+CA-2023-1006,2023-01-17,2023-01-19,C-006,Lucas Garcia,Corporate,East,Pennsylvania,Technology,Accessories,USB-C Hub,45.00,2,0,12.00
+CA-2023-1007,2023-01-19,2023-01-23,C-007,Olivia Harris,Consumer,South,Florida,Furniture,Tables,Conference Table,450.00,1,0.2,40.00
+CA-2023-1008,2023-01-21,2023-01-24,C-008,Mason Hill,Home Office,West,Washington,Office Supplies,Art,Markers Set,16.00,4,0,4.60
+CA-2023-1009,2023-01-23,2023-01-26,C-009,Ava Irving,Consumer,East,New York,Technology,Phones,Smartphone Y,799.00,1,0.05,150.00
+CA-2023-1010,2023-01-25,2023-01-28,C-010,Ethan Johnson,Corporate,Central,Ohio,Furniture,Bookcases,Wood Bookcase,180.00,1,0,25.00
+CA-2023-1011,2023-01-26,2023-01-29,C-011,Isabella King,Consumer,West,California,Office Supplies,Storage,Storage Boxes,24.00,6,0,7.50
+CA-2023-1012,2023-01-27,2023-01-30,C-012,Logan Lee,Corporate,South,Georgia,Technology,Accessories,Keyboard,49.99,1,0,15.00
+CA-2023-1013,2023-01-28,2023-02-01,C-013,Mia Martinez,Home Office,East,Massachusetts,Office Supplies,Paper,Premium Paper,22.00,3,0.05,6.00
+CA-2023-1014,2023-01-30,2023-02-02,C-014,Jacob Nelson,Consumer,Central,Missouri,Furniture,Chairs,Task Chair,89.00,2,0.1,12.00
+CA-2023-1015,2023-02-01,2023-02-04,C-015,Charlotte Owens,Consumer,West, Oregon ,Technology,Accessories,Laptop Stand,39.99,2,0,10.00
+CA-2023-1016,2023-02-02,2023-02-05,C-016,William Parker,Corporate,East,New York,Office Supplies,Binders,Heavy Duty Binder,15.00,4,0,3.50
+CA-2023-1017,2023-02-03,2023-02-06,C-017,Amelia Quinn,Home Office,South,Texas,Technology,Phones,Smartphone X,699.00,1,0.1,90.00
+CA-2023-1018,2023-02-05,2023-02-08,C-018,James Rivera,Consumer,West,California,Furniture,Tables,Coffee Table,120.00,1,0,15.00
+CA-2023-1019,2023-02-07,2023-02-10,C-019,Harper Scott,Corporate,Central,Illinois,Office Supplies,Art,Sketch Pad,9.50,5,0,2.00
+CA-2023-1020,2023-02-09,2023-02-12,C-020,Benjamin Turner,Consumer,East,Pennsylvania,Technology,Accessories,Webcam,65.00,1,0,18.00
+CA-2023-1021,2023-02-10,2023-02-14,C-021,Evelyn Underwood,Home Office,South,Florida,Office Supplies,Paper,Copy Paper 500ct,18.50,6,0,6.30
+CA-2023-1022,2023-02-12,2023-02-16,C-022,Alexander Vega,Consumer,West,Washington,Furniture,Bookcases,Metal Bookcase,210.00,1,0.15,20.00
+CA-2023-1023,2023-02-13,2023-02-17,C-023,Abigail White,Corporate,East,New Jersey,Technology,Accessories,USB-C Hub,45.00,1,0,12.00
+CA-2023-1024,2023-02-14,2023-02-18,C-024,Daniel Young,Consumer,Central,Ohio,Office Supplies,Storage,Storage Boxes,24.00,4,0,6.00
+CA-2023-1025,2023-02-16,2023-02-20,C-025,Emily Zimmerman,Home Office,West,California,Technology,Phones,Smartphone Z,899.00,1,0.05,180.00
+CA-2023-1026,2023-02-18,2023-02-22,C-026,Michael Allen,Corporate,South,Georgia,Furniture,Chairs,Ergo Chair,199.00,1,0.2,18.00
+CA-2023-1027,2023-02-19,2023-02-24,C-027,Elizabeth Baker,Consumer,Central,Illinois,Office Supplies,Binders,Standard Binder,12.75,2,0,2.10
+CA-2023-1028,2023-02-21,2023-02-24,C-028,Daniel Carter,Consumer,West,California,Technology,Accessories,Wireless Mouse,29.99,1,0,4.20
+CA-2023-1029,2023-02-22,2023-02-25,C-029,Sofia Diaz,Home Office,East,New York,Office Supplies,Art,Markers Set,16.00,3,0,3.20
+CA-2023-1030,2023-02-24,2023-02-27,C-030,Matthew Edwards,Corporate,South,Texas,Furniture,Tables,Conference Table,450.00,1,0.25,10.00
+CA-2023-1031,2023-02-25,2023-02-28,C-031,Victoria Flores,Consumer,Central,Missouri,Technology,Accessories,Keyboard,49.99,2,0,14.00
+CA-2023-1032,2023-02-27,2023-03-02,C-032,Samuel Green,Consumer,East,Massachusetts,Office Supplies,Paper,Premium Paper,22.00,4,0,7.00
+CA-2023-1033,2023-02-28,2023-03-03,C-033,Natalie Hughes,Home Office,West,Washington,Furniture,Bookcases,Wood Bookcase,180.00,1,0.1,16.00
+CA-2023-1034,2023-03-01,2023-03-04,C-034,David Ingram,Consumer,West,California,Technology,Phones,Smartphone Y,799.00,1,0.05,140.00
+CA-2023-1035,2023-03-02,2023-03-06,C-035,Grace Jenkins,Corporate,Central,Ohio,Office Supplies,Storage,Storage Boxes,24.00,5,0,6.50
+CA-2023-1036,2023-03-03,2023-03-07,C-036,Henry Kim,Consumer,East,New Jersey,Furniture,Chairs,Task Chair,89.00,1,0.1,8.00
+CA-2023-1037,2023-03-04,2023-03-08,C-037,Aria Lopez,Home Office,South,Florida,Technology,Accessories,Webcam,65.00,2,0,16.00
+CA-2023-1038,2023-03-05,2023-03-09,C-038,Joseph Miller,Consumer,West,California,Office Supplies,Art,Sketch Pad,9.50,4,0,1.80
+CA-2023-1039,2023-03-06,2023-03-10,C-039,Scarlett Nguyen,Corporate,East,Pennsylvania,Office Supplies,Binders,Heavy Duty Binder,15.00,2,,2.00
+CA-2023-1040,2023-03-07,2023-03-11,C-040,Andrew Ortiz,Consumer,Central,Illinois,Technology,Accessories,USB-C Hub,45.00,1,0,12.00
+CA-2023-1041,2023-03-08,2023-03-12,C-041,Hannah Patel,Consumer,West,Washington,Furniture,Tables,Coffee Table,120.00,1,0,14.00
+CA-2023-1042,2023-03-09,2023-03-13,C-042,Joshua Reed,Home Office,South,Texas,Office Supplies,Paper,Copy Paper 500ct,18.50,4,10%,5.50
+CA-2023-1043,2023-03-10,2023-03-14,C-043,Lily Simmons,Corporate,East,New York,Technology,Phones,Smartphone Z,899.00,1,0.1,160.00
+CA-2023-1044,2023-03-11,2023-03-15,C-044,Christopher Taylor,Consumer,West,California,Office Supplies,Storage,Storage Boxes,24.00,3,0,5.00
+CA-2023-1045,2023-03-12,2023-03-16,C-045,Zoey Underwood,Corporate,Central,Ohio,Furniture,Bookcases,Metal Bookcase,210.00,1,0.15,18.00
+CA-2023-1046,2023-03-13,2023-03-17,C-046,Anthony Vasquez,Consumer,West,California,Technology,Accessories,Wireless Mouse,29.99,2,0,8.40
+CA-2023-1047,2023-03-14,2023-03-18,C-047,Leah Walker,Home Office,East,Massachusetts,Office Supplies,Binders,Standard Binder,12.75,4,0,3.60
+CA-2023-1048,2023-03-15,2023-03-19,C-048,Jack Xu,Consumer,South,Georgia,Furniture,Chairs,Ergo Chair,199.00,1,0.2,18.00
+CA-2023-1049,2023-03-16,2023-03-20,C-049,Nora Young,Corporate,Central,Missouri,Technology,Phones,Smartphone X,699.00,1,0.1,95.00
+CA-2023-1050,2023-03-17,2023-03-21,C-050,Jayden Zhang,Consumer,West,California,Office Supplies,Art,Markers Set,16.00,2,0,3.50
+CA-2023-1051,2023-03-18,2023-03-22,C-051,Aubrey Baker,Consumer,West,California,Technology,Accessories,Wireless Mouse,29.99,2,0,8.50
+CA-2023-1051,2023-03-18,2023-03-22,C-051,Aubrey Baker,Consumer,West,California,Technology,Accessories,Wireless Mouse,29.99,2,0,8.50
+CA-2023-1052,2023-03-19,2023-03-25,C-052,Julian Carter,Home Office,West,California,Office Supplies,Paper,Premium Paper,22.00,3,0,6.20
